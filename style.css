@@ -1,6 +1,5 @@
 body {
-  background-color: rgb(255, 255, 255);
-  color: white;
+  background-color: rgb(128, 0, 0);
   font-family: optima;
   font-size: 24px
 }
@@ -14,7 +13,7 @@ body {
   width: 300px;
   margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan */
   padding: 20px
-  color: rgb(255, 255, 255);
+  color: rgb(128, 0, 0);
   bakground-color: white;
   border-radius: 15px; /*sudut melengkung*/
   box-shadow: 0 4px 8px rgba(0,0,0,0.1); /*efek bayangan*/
