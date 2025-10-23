@@ -12,3 +12,5 @@ body {
   bakground-color: rgb(128, 0, 0);
   border-radius: 15px; /*sudut melengkung*/
   box-shadow: 0 4px 8px rgba(0,0,0,0.1); /*efek bayangan*/
+  text-align: center; /*menengahkan semua teks dalam klas lenet*/
+} 
