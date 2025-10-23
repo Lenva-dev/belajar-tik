@@ -5,8 +5,9 @@ body {
 }
 .lenet {
   width: 300px;
+  background-color: rgb(128, 0, 0);
   margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan */
-  color: white;
+  color: rgb(255, 255, 255);
   text-align: center; /*menengahkan semua teks dalam klas lenet*/
 } 
 .lonot {
@@ -14,7 +15,7 @@ body {
   margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan */
   padding: 20px
   color: rgb(128, 0, 0);
-  bakground-color: white;
+  bakground-color: rgb(255, 255, 255);
   border-radius: 15px; /*sudut melengkung*/
   box-shadow: 0 4px 8px rgba(0,0,0,0.1); /*efek bayangan*/
   text-align: center; /*menengahkan semua teks dalam klas lenet*/
