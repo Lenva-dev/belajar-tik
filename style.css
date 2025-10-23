@@ -12,15 +12,18 @@ body {
   text-align: center; /*menengahkan semua teks dalam klas lenet*/
 } 
 .lonot {
+  bakground-color: white;
+  color: red;
   width: 300px;
   margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan */
   padding: 20px
-  color: red;
-  bakground-color: white;
   border-radius: 15px; /*sudut melengkung*/
   box-shadow: 0 4px 8px rgba(0,0,0,0.1); /*efek bayangan*/
   text-align: center; /*menengahkan semua teks dalam klas lenet*/
 } 
+.lonot h3{
+  color: red;
+}
   
 .lanat img{
   width: 150px;
