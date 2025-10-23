@@ -8,6 +8,7 @@ body {
   width: 300px;
   margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan */
   color: rgb(255, 255, 255);
+  background-color: rgb(128, 0, 0);
   text-align: center; /*menengahkan semua teks dalam klas lenet*/
 } 
 .lonot {
